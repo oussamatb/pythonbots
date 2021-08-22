@@ -1,0 +1,8 @@
+pyautogui 
+time 
+keyboard 
+random
+win32api, win32con
+
+it's the easiest way to make non complex reconization bot we can make it faster by makking region enable
+it just recognize saved photos no complex dimention nd maths in it  

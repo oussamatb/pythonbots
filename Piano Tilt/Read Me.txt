@@ -1,0 +1,12 @@
+pywin32
+keyboard
+pyautogui
+opencv-python
+
+The Game
+https://www.gamesgames.com/game/magic-piano-tiles
+
+u may need a little twicking on the cordinate of the Pixel X so it run normaly on ur pc 
+use the comande pyautogui.displayMousePosition() In idle to get the right scales 
+
+This isn't realy an Ai but we can implimante it to a one easily .
